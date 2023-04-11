@@ -14,8 +14,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL here](https://your-solution-url.com)
+- Live Site URL: [ live site URL here](https://timely-biscuit-e2863d.netlify.app/)
 
 ## My process
 
